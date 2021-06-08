@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoobJsPerson
 - 👀 I’m interested in making Discord Bots and Small Games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning more JavaScript
 - 📫 Discord: AmineCrafter101#5531
 
 <!---
