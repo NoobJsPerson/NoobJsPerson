@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @NoobJsPerson
 - 👀 I’m interested in making Discord Bots and Small Games
 - 🌱 I’m currently learning C++ and bash
-- 📫 Discord: AmineCrafter101#5531
+- 📫 Discord: AmineCrafter101#7818
 
 <!---
 NoobJsPerson/NoobJsPerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
