@@ -2,7 +2,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 👋 Hi, I’m @NoobJsPerson
 - 👀 I’m interested in making Discord Bots and Small Games
-- 🌱 I’m currently learning C++ and bash
+- 🌱 I’m currently learning Rust and C
 - 📫 Discord: AmineCrafter101#7818
 
 <!---
