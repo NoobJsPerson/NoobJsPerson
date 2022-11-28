@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobJsPerson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![NoobJsPerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobJsPerson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![NoobJsPerson's github activity graph](https://activity-graph.herokuapp.com/graph?username=noobjsperson&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 👋 Hi, I’m @NoobJsPerson
 - 👀 I’m interested in making Discord Bots and Small Games
 - 🌱 I’m currently learning Rust and C
