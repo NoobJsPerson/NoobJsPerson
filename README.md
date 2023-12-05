@@ -4,7 +4,7 @@
 - 👀 I’m interested in making Tools that help everyone.
 - 🌱 I’m currently learning Python
 - 📫 Discord: AmineCrafter101#7818
-
+Want to support me? [Click here](patreon.com/AmineElBaghdadi)
 <!---
 NoobJsPerson/NoobJsPerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
